@@ -36,6 +36,7 @@
 - [WPF][WPF 프로젝트](https://github.com/lmrang/StudyWPF)
 - [WINFROM][WINFROM](https://github.com/AellimSun/Dominion-project_pamatto)
 - [C][ERP생산관리](https://github.com/lmrang/1st_Project)
+- [ATmega128][Doorlock](https://github.com/lmrang/ATmega128A/tree/main/Mini_Project)
 
 
 
