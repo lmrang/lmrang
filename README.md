@@ -18,7 +18,7 @@
 <a href="https://github.com/lmrang/StudyWPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
 </P>-->
 
-<!--
+
 ## Using Tools
 <p align='left'>
     <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
@@ -29,12 +29,13 @@
     <img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
     <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png">
     <img height="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png">
-    <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
+    <!--<img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">-->
 </p>
--->
 
 ## Project List
 - [WPF][WPF 프로젝트](https://github.com/lmrang/StudyWPF)
+- [WINFROM][WINFROM](https://github.com/AellimSun/Dominion-project_pamatto)
+- [C][ERP생산관리](https://github.com/lmrang/1st_Project)
 
 
 
