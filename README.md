@@ -8,9 +8,10 @@
 - 😄Name : Irang Lim
 - 📫Emali : limlr@naver.com
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=lmrang&theme=synthwave&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmrang&theme=synthwave&layout=compact"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmrang&theme=buefy&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lmrang&theme=buefy&show_icons=true"/> 
+</div>
 
 <!--## Tech Stack
 <h3 align='center'>Languages</h3>
